@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Rahul Babu Koneru"
+title                    : "Home"
 title_separator          : "-"
-name                     : &name ""
+name                     : &name "Rahul Babu Koneru"
 description              : &description "PhD student, Mechanical Engineering, University of Florida"
 url                      : https://konerr.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
